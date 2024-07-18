@@ -1,0 +1,13 @@
+.related-courses-section {
+    padding: 20px;
+  }
+  
+  .related-courses-section ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .related-courses-section ul li {
+    margin: 10px 0;
+  }
+  
